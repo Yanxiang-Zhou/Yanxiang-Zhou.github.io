@@ -60,7 +60,7 @@ const GitProfile = ({ config }) => {
           name: data.name ? data.name : '',
           bio: data.bio ? data.bio : '',
           location: data.location ? data.location : '',
-          institution: data.company ? data.company : '',
+          company: data.company ? data.company : '',
         };
 
         setProfile(profileData);
