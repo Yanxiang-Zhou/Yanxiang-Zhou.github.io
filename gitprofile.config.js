@@ -44,7 +44,6 @@ const config = {
     'Flask',
     'NLP',
     'AWS',
-    'GCP',
   ],
   experiences: [
     {
