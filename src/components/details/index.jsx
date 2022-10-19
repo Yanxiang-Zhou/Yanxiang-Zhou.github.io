@@ -90,7 +90,7 @@ const Details = ({ profile, loading, social, github }) => {
               {profile.company && (
                 <ListItem
                   icon={<FaBuilding className="mr-2" />}
-                  title="Company:"
+                  title="Institution:"
                   value={profile.company}
                   link={
                     isCompanyMention(profile.company.trim())
