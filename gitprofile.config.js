@@ -11,80 +11,81 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'www.linkedin.com/in/zhouyanxiang',
+    twitter: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
+    medium: '',
+    dev: '',
+    website: 'https://yanxiang-zhou.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'yzhou791@gatech.edu',
   },
   resume: {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'c/c++',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'd3.js',
+    'GraphQL',
     'MySQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
-    'Bootstrap',
+    'Pytorch',
+    'Tensorflow',
+    'Flask',
   ],
   experiences: [
     {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
-      to: 'Present',
+      company: 'Huaxia Bank',
+      position: 'Software Engineer Intern',
+      from: 'January 2020',
+      to: 'June 2020',
     },
     {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: 'Peakview Capital',
+      position: 'Data Scientist Intern',
+      from: 'October 2020',
+      to: 'January 2021',
+    },
+    {
+      company: 'Mentra',
+      position: 'Data Scientist',
+      from: 'October 2021',
+      to: 'March 2022',
     },
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
-      degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
+      institution: 'Georgia Institute of Technology',
+      degree: 'Master of Computer Science',
+      from: '2021',
+      to: '2023',
     },
     {
-      institution: 'Cantonment College, Jessore',
-      degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
-    },
-    {
-      institution: 'Chowgacha Shahadat Pilot High School',
-      degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
+      institution: 'Central University of Finance and Economics',
+      degree: 'Bachelor of Economics',
+      from: '2017',
+      to: '2021',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
+    id: '', // Please remove this and use your own tag id or keep it empty
   },
   hotjar: {
     id: '2617601', //  Please remove this and use your own id or keep it empty
