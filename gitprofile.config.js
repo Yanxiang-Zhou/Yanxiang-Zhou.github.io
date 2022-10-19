@@ -42,6 +42,7 @@ const config = {
     'Pytorch',
     'Tensorflow',
     'Flask',
+    'NLP',
   ],
   experiences: [
     {
