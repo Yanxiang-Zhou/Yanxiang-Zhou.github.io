@@ -43,6 +43,8 @@ const config = {
     'Tensorflow',
     'Flask',
     'NLP',
+    'AWS',
+    'GCP',
   ],
   experiences: [
     {
