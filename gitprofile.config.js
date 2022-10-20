@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'www.linkedin.com/in/zhouyanxiang',
+    linkedin: 'zhouyanxiang',
     twitter: '',
     facebook: '',
     instagram: '',
